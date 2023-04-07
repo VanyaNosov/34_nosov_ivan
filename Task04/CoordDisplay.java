@@ -1,6 +1,6 @@
 package Task04;
 
 public interface CoordDisplay {
-  public void display(Coord coord);
-  public void displayTable(Coord coord, String[] columnNames);
+  void display(Coord coord);
+  void displayTable(Coord coord, String[] headers);
 }
