@@ -5,6 +5,7 @@
 + [TASK03](#TASK03)
 + [TASK04](#TASK04)
 + [TASK05](#TASK05)
++ [TASK05](#TASK06)
 
 ## TASK01:
 **Завдання:**
